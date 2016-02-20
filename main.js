@@ -1,10 +1,12 @@
 // ==UserScript==
-// @name         Readablity
-// @version      0.2
+// @name         Rdblty
+// @namespace    com.joltimate.rdblty
+// @version      0.11
 // @description  Makes it easier to read stuff
 // @author       Joltimate
 // @grant        none
 // @include      /https?:\/\/www\.(gnu)\.org\/.*/
+// @updateURL    https://github.com/chriswalz/rdblty/blob/master/main.js
 // ==/UserScript==
 /* jshint -W097 */
 'use strict';
