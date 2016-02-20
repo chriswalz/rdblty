@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Readablity
-// @version      0.1
+// @version      0.2
 // @description  Makes it easier to read stuff
 // @author       Joltimate
 // @grant        none
