@@ -8,8 +8,8 @@
 // ==/UserScript==
 /* jshint -W097 */
 'use strict';
-
-console.log('GNU readablitity enabled');
+// test change
+console.log('GNU rdblty enabled');
 var body = document.querySelector('body');
 body.style.margin = '64px';
 body.style.fontSize = '1.5em';
